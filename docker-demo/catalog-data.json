@@ -1,0 +1,9 @@
+{
+  "description": "Branded docker repository",
+  "architectures": [
+    "x86"
+  ],
+  "operatingSystems": [
+    "Linux"
+  ]
+}
